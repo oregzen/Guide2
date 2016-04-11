@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.3\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3013d965c748748ec9c7d0d42102e9abd1c9ed91">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-core-2.3.3_b666e47db5d2a39ce36150b9c725a86370251074\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.8.0_eb07d5da8aac153b668c807064f1883e26187b72\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\ormlite-android-4.48_b2e4615e353bf9fff3103335673ea0950b731f89\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_0ee7c7e55d6e741a4dfd065373407cebbf3776ed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.8.0_ee7a6f2ca6e9b5ce17bc2b123ee01f053d0fc085\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_f1ff11d601fcdf0883488548e87d157e5bd6ea9c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.4\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.4_30be049ec0209caab51e48bd51744e90488a5971\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c364019628ff5b32e4930334e9db4680829f7115">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-answers-1.2.2_ac0642dfc2e29e608bda08955efefeb135d1d032\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.8.0_d956207fd9307ff35f57ba88975f482c04ca5666\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.8.0_37925098f6ad989764673b0070e60ceee55d54a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="fd39f74f23c7bd9aeafe58c6d988a7329c3e2790">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-2.4.0_d63f710a8c78547be64890639ff0f2d6cae8e6f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.8.0_27c875df2b850a14a888313f483c0620079b6db5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_e1a93094bc6b17d7347fe905aca73986d15432f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.3\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-beta-1.1.3_413d853de6ed380af8b359694847c8f73862bc64\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.2.0_cc9853b1dd51debfcca4dcaf22a8cbea9475c307\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.8.0_36cfff3666d04c42b573302cc4fc74c54c496208\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.8.0_db626fa67a1d0d3ac4a917c77dc7c2f701958648\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.8.0_be4472c1e20a9716eb7604d8bbcf363811bea12b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.8.0_7085aa93ebf94375269f154480349edd6817557d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.8.0_5fa94a5e0e7d9924d7f10dd749471d24af393a1a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-7.8.0_e979aa12685280355aa2659457fc6d8c4b724a4c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_4b1cfc9034c57836f4d6573126bbbfcee4f4fb55\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\simple-xml-2.7.1_d6b005b09d1d82af5675c8c9c146c8039109742e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_755cd510b5408b50f26f1ec35027d9c2c8dd0b93\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5847dffbc8c3286b22c083cbce35777ec3b863c8">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b8cda6fa3242d1d70c4686529583c7f146f4c6ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.8.0_d4a1555534a780b9e064ae0400fc8edc97e963d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.8.0_9b25f8b2dc36da1a30aeeeb5c9acc772b23c62b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.8.0_1d790d18fb79658524a4c49f9a67d279caaf05d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_f6fe79069c16771e4cff737c2f781dcec033684c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="eb950a705ea97ed792b3b160d134bd20d4adb733">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4c77712a3cca892f0ba4cd429d96a86713c05f28\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.8.0_b839a73b067468c0adb76d53b3e558881dfd560e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.8.0_3f0f663b5978dc4a25bb86d574d2933adebee57e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-21.0.3_cb9a22d4e2235c569b8c1819b63228cec6c5dc76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.8.0_910d27a10decb76e95aff3582796950045e094e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.8.0_a40defc6045798118cddf3a4ac16b7bf22ef5c32\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\libs\universal-image-loader-1.8.6.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="09995ba681982ca129af798c9eb21e79c4bffa45">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.6_33e4519cd9dd78823db2cf7283b4c4c465b31842\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.8.0_a4119e3c89df034572ad86469b3b3d4df0e54a3b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.8.0_26772c2c1ecffc3831e261e828399904b5fb7c8e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.8.0_923cac7781b41b3bfa739231d69b11a615c2c7c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="C:\Users\Mighty\Desktop\Asian2\Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\ormlite-core-4.48_c5291d3547f5470c1ead1ac509270bf7047833e7\classes.dex" />
+    </item>
+
+</items>
